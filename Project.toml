@@ -1,0 +1,9 @@
+name = "Utilities"
+uuid = "61e8dd95-71bf-44fc-9557-ff052b02eacd"
+authors = ["Orjan Ameye <orjan.ameye@hotmail.com> and contributors"]
+version = "1.0.0"
+
+[deps]
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"

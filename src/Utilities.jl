@@ -102,5 +102,8 @@ function geomspace(start::Number, stop::Number, num::Integer=50; endpoint::Bool=
     return res
 end
 
+function heaviside(x)
+    0.5 * (sign(x) + 1)
+ end
 
 end
